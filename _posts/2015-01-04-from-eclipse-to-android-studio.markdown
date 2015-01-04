@@ -16,8 +16,8 @@ categories: android
 
 最后附上几个Android Studio刚刚更新的应用:
 
-[图片+保存]:Google+图片保存
-[图片+分享]:Google+图片分享
+[Google+图片保存][图片+保存]
+[Google+图片分享][图片+分享]
 
 [图片+保存]:    https://play.google.com/store/apps/details?id=cn.edu.buaa.wangye.photosave
 [图片+分享]:    https://play.google.com/store/apps/details?id=cn.edu.buaa.wangye.photoshare
