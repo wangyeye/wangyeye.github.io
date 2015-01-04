@@ -5,9 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
   态度决定一切
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wangyeye.github.io" # the base hostname & protocol for your site
-twitter_username: 623902748
+#twitter_username: 623902748
 github_username:  wangyeye
 googleplus_username:  +王烨yeye
-facebook_username:  ye.wang.522
+#facebook_username:  ye.wang.522
 # Build settings
 markdown: kramdown
